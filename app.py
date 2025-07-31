@@ -1,0 +1,1 @@
+    result = "Error triggered successfully" + " - This should cause an error"
