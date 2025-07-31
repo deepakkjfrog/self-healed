@@ -8,3 +8,6 @@ One more
 
 def add_two_numbers(num1, num2):
     return num1 + num2
+
+def add_two_numbers(num1, num2):
+    return num1 + num2
